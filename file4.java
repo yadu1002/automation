@@ -10,3 +10,7 @@ public class MultiplyTwoNumbers {
         System.out.println("The product is: " + product);
     }
 }
+//use double slashes to make any comments on java
+/*
+ *this type of comments is used to java docs comments
+ * */
